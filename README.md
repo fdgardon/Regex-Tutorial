@@ -50,3 +50,5 @@ None
 The \ is known as the escape code, which restore the original literal meaning of the following character. Similarly, * , + , ? (occurrence indicators), ^ , $ (position anchors) have special meaning in regex. You need to use an escape code to match with these characters.
 ## Author
 This is Farid Gardoon and I am student at UC Davis Coding Boot Camp that is going to end by 5 weeks, you can reach out to me by: https://github.com/fdgardon
+
+## Depoly Link: https://gist.github.com/fdgardon/00cafbc178f896b3ec6dc8bef1e034bb
